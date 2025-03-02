@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/unity-developer-portfolio/static/css/main.272ebc23.css",
-    "main.js": "/unity-developer-portfolio/static/js/main.eedf0971.js",
-    "static/js/488.f84b4dc0.chunk.js": "/unity-developer-portfolio/static/js/488.f84b4dc0.chunk.js",
-    "index.html": "/unity-developer-portfolio/index.html",
-    "main.272ebc23.css.map": "/unity-developer-portfolio/static/css/main.272ebc23.css.map",
-    "main.eedf0971.js.map": "/unity-developer-portfolio/static/js/main.eedf0971.js.map",
-    "488.f84b4dc0.chunk.js.map": "/unity-developer-portfolio/static/js/488.f84b4dc0.chunk.js.map"
+    "main.css": "/unity-developer-cv/static/css/main.272ebc23.css",
+    "main.js": "/unity-developer-cv/static/js/main.8d94db9b.js",
+    "static/js/488.f84b4dc0.chunk.js": "/unity-developer-cv/static/js/488.f84b4dc0.chunk.js",
+    "index.html": "/unity-developer-cv/index.html",
+    "main.272ebc23.css.map": "/unity-developer-cv/static/css/main.272ebc23.css.map",
+    "main.8d94db9b.js.map": "/unity-developer-cv/static/js/main.8d94db9b.js.map",
+    "488.f84b4dc0.chunk.js.map": "/unity-developer-cv/static/js/488.f84b4dc0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.272ebc23.css",
-    "static/js/main.eedf0971.js"
+    "static/js/main.8d94db9b.js"
   ]
 }
